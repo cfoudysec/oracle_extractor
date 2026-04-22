@@ -1,0 +1,3 @@
+theme: jekyll-theme-hacker
+title: Oracle Extractor
+description: Hands-on Python exercise demonstrating binary oracle attacks that extract secrets from LLM chatbots one bit at a time. Runs fully locally — no real targets, no network.
